@@ -1,5 +1,4 @@
-# DjangoAPI_NirangZone
-# NirangZone Django API Development
+# DjangoAPI_NirangZone ## API Development
 
 As per the instructions mentioned in the given scenario, the API has been developed using Django REST Framework and a simple python script to test the flow of the API in it's all test case satisfaction.
 ## Installation
