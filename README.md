@@ -3,7 +3,7 @@
 As per the instructions mentioned in the given scenario, the API has been developed using Django REST Framework and a simple python script to test the flow of the API in it's all test case satisfaction.
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install django and django rest framework.
 
 ```bash
 pip install django
